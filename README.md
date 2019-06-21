@@ -18,11 +18,3 @@
 ###### `header -> React Component`  
 ###### `story -> React Component`  
   
-<-- #### Tests  
-* How do you run tests? `npm test`  
-* What assertions were made?  
-  - App renders properly  
-  - Form renders properly  
-* What assertions need to be / should be made?  
-  - Form updates count  
--->
